@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.totalContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    width:100%;
+    overflow-y: auto;
+    background-color: black;
+}
+
+.bg-container {
+    background-color: #1b1b1b;
+    height: 90vh;
+    padding: 15px;
+    overflow-y: auto;
+}
+
+.heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 30px;
+}
+
+.card {
+    background-color: #e6f6ff;
+    height: 180px;
+    width: 300px;
+    border-width: 0px;
+}
+
+.heading-1 {
+    font-size: 20px;
+}
+
+.paragraph {
+    color: #06070d;
+    font-size: 15px;
+}
+
+.paragraph-1 {
+    font-size: 10px;
+}
+
+.color {
+    color: #183b56;
+}
+
+.card-1 {
+    padding: 10px;
+    font-family: "Bree Serif";
+}
+
+.heading-2 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.card-2 {
+    height: 130px;
+    width: 300px;
+    background-color: #1b1b1b;
+    margin: 10px;
+}
+
+.heading-3 {
+    font-size: 15px;
+    color: #e4e7eb;
+}
+
+.paragraph-2 {
+    color: #e4e7eb;
+    font-size: 10px;
+}
+
+.image {
+    height: 400px;
+    width: 200px;
+    text-align: center;
+
+}
+
+.heading-4 {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "Bree Serif";
+}
+
+.paragraph-3 {
+    color: #9aa5b1;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: "Bree Serif";
+}
+
+.paragraph-4 {
+    font-size: 12px;
+    color: #e4e7eb;
+    font-family: "Bree Serif";
+}
+
+.button {
+    color: #06070d;
+    background-color: yellow;
+    border-width: 0px;
+    border-radius: 5px;
+    width: 80px;
+    height: 40px
+}
+
+.paddings {
+    margin: 5px;
+}
